@@ -1,0 +1,15 @@
+
+Herobrine level = 300
+Notch level = 200
+Entity level = 700
+kolbert level = 100
+ione level = 150
+runt level = 80
+eebs level = 300
+tufty level = 200
+meowz level = 200
+glorm level = 150
+Lyra level = 90
+enderstar level = 200
+grayfellow level = 170
+S level = 120
